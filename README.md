@@ -1,5 +1,5 @@
 # About
-
+Add cryptocurrencies to your home screen and track changes
 
 
 # How it works
